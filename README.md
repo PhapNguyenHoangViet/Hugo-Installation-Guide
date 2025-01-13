@@ -1,5 +1,24 @@
 # Hướng dẫn cài đặt Hugo
 
+## Mục lục
+- [Hướng dẫn cài đặt Hugo](#hướng-dẫn-cài-đặt-hugo)
+  - [Mục lục](#mục-lục)
+  - [Cách 1: Cài Đặt Hugo Bằng Package Manager (Chocolatey)](#cách-1-cài-đặt-hugo-bằng-package-manager-chocolatey)
+    - [Bước 1: Mở Windows PowerShell (Admin)](#bước-1-mở-windows-powershell-admin)
+    - [Bước 2: Cài Đặt Chocolatey](#bước-2-cài-đặt-chocolatey)
+    - [Bước 3: Xác minh cài đặt Chocolatey](#bước-3-xác-minh-cài-đặt-chocolatey)
+    - [Bước 4: Cài đặt Hugo Extended Edition](#bước-4-cài-đặt-hugo-extended-edition)
+    - [Bước 5: Cài đặt Hugo Extended Edition](#bước-5-cài-đặt-hugo-extended-edition)
+  - [Cách 2: Cài đặt thủ công bằng file biên dịch sẵn](#cách-2-cài-đặt-thủ-công-bằng-file-biên-dịch-sẵn)
+    - [Bước 1: Truy cập trang latest release](#bước-1-truy-cập-trang-latest-release)
+    - [Bước 2: Tải về file phù hợp](#bước-2-tải-về-file-phù-hợp)
+    - [Bước 3: Giải nén và di chuyển tệp](#bước-3-giải-nén-và-di-chuyển-tệp)
+    - [Bước 4: Thêm thư mục vào biến môi trường PATH](#bước-4-thêm-thư-mục-vào-biến-môi-trường-path)
+    - [Bước 5: Kiểm tra cài đặt](#bước-5-kiểm-tra-cài-đặt)
+
+
+---
+
 ## Cách 1: Cài Đặt Hugo Bằng Package Manager (Chocolatey)
 
 ### Bước 1: Mở Windows PowerShell (Admin)
