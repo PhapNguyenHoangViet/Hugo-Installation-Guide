@@ -113,3 +113,7 @@
 3. Nếu lệnh trả về phiên bản Hugo, bạn đã cài đặt thành công.
 
 ![anh3](/images/anh3.png?width=90pc)
+
+## Hỗ trợ
+
+Nếu bạn cần hỗ trợ thêm, vui lòng liên hệ với chúng tôi qua email: [vietphap090603@gmail.com](mailto:vietphap090603@gmail.com)
