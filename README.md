@@ -15,6 +15,8 @@
 ### Bước 3: Giải nén và di chuyển tệp
 - Giải nén tệp và di chuyển tệp thực thi (file `.exe`) đến thư mục bạn muốn (ví dụ: `C:\Hugo`).
 
+![anh2](/images/anh1.png?width=90pc)
+
 ### Bước 4: Thêm thư mục vào biến môi trường PATH
 1. Nhấn **Windows + S**, tìm **Environment Variables**.
 2. Chọn **Edit the system environment variables**.
@@ -31,7 +33,9 @@
    ```
 3. Nếu lệnh trả về phiên bản Hugo, bạn đã cài đặt thành công.
 
+![anh3](/images/anh1.png?width=90pc)
 
+---
 
 ## Cách 2: Cài Đặt Hugo Bằng Package Manager (Chocolatey)
 
@@ -53,10 +57,15 @@
    ```bash
    Set-ExecutionPolicy Bypass -Scope Process
    ```
+
+![anh4](/images/anh1.png?width=90pc)
+
 3. Cài đặt Chocolatey bằng lệnh
    ```bash
    Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
    ```
+
+![anh5](/images/anh1.png?width=90pc)
 
 ### Bước 3: Xác minh cài đặt Chocolatey
 1. Sau khi cài đặt hoàn tất, khởi động lại PowerShell.
@@ -64,6 +73,9 @@
    ```bash
    choco --version
    ```
+
+![anh6](/images/anh1.png?width=90pc)
+
 3. Nếu lệnh trả về phiên bản của Chocolatey, cài đặt đã thành công.
 
 ### Bước 4: Cài đặt Hugo Extended Edition
@@ -73,9 +85,13 @@
    choco install hugo-extended
    ```
 
+![anh7](/images/anh1.png?width=90pc)
+
 ### Bước 5: Cài đặt Hugo Extended Edition
 1. Mở PowerShell hoặc Command Prompt.
 2. Chạy lệnh sau để kiểm tra phiên bản của Hugo:
    ```bash
    hugo version
    ```
+
+![anh8](/images/anh1.png?width=90pc)
