@@ -74,7 +74,7 @@
    choco --version
    ```
 
-![anh6](/images/anh6.png?width=90pc)
+![anh6](/images/anh62.png?width=90pc)
 
 3. Nếu lệnh trả về phiên bản của Chocolatey, cài đặt đã thành công.
 
