@@ -15,7 +15,7 @@
 ### Bước 3: Giải nén và di chuyển tệp
 - Giải nén tệp và di chuyển tệp thực thi (file `.exe`) đến thư mục bạn muốn (ví dụ: `C:\Hugo`).
 
-![anh2](/images/anh1.png?width=90pc)
+![anh2](/images/anh2.png?width=90pc)
 
 ### Bước 4: Thêm thư mục vào biến môi trường PATH
 1. Nhấn **Windows + S**, tìm **Environment Variables**.
@@ -33,7 +33,7 @@
    ```
 3. Nếu lệnh trả về phiên bản Hugo, bạn đã cài đặt thành công.
 
-![anh3](/images/anh1.png?width=90pc)
+![anh3](/images/anh3.png?width=90pc)
 
 ---
 
@@ -58,14 +58,14 @@
    Set-ExecutionPolicy Bypass -Scope Process
    ```
 
-![anh4](/images/anh1.png?width=90pc)
+![anh4](/images/anh4.png?width=90pc)
 
 3. Cài đặt Chocolatey bằng lệnh
    ```bash
    Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
    ```
 
-![anh5](/images/anh1.png?width=90pc)
+![anh5](/images/anh5.png?width=90pc)
 
 ### Bước 3: Xác minh cài đặt Chocolatey
 1. Sau khi cài đặt hoàn tất, khởi động lại PowerShell.
@@ -74,7 +74,7 @@
    choco --version
    ```
 
-![anh6](/images/anh1.png?width=90pc)
+![anh6](/images/anh6.png?width=90pc)
 
 3. Nếu lệnh trả về phiên bản của Chocolatey, cài đặt đã thành công.
 
@@ -85,7 +85,7 @@
    choco install hugo-extended
    ```
 
-![anh7](/images/anh1.png?width=90pc)
+![anh7](/images/anh7.png?width=90pc)
 
 ### Bước 5: Cài đặt Hugo Extended Edition
 1. Mở PowerShell hoặc Command Prompt.
@@ -94,4 +94,4 @@
    hugo version
    ```
 
-![anh8](/images/anh1.png?width=90pc)
+![anh8](/images/anh8.png?width=90pc)
