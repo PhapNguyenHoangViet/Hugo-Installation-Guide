@@ -5,9 +5,12 @@
 ### Bước 1: Truy cập trang latest release
 - Truy cập trang [latest release](https://github.com/gohugoio/hugo/releases) và cuộn xuống phần **Assets**.
 
+
 ### Bước 2: Tải về file phù hợp
 - Tải về file tương ứng với phiên bản và hệ điều hành bạn cần.
 - Link tải nhanh cho Windows: [Hugo_v0.140.2](https://github.com/gohugoio/hugo/releases/download/v0.140.2/hugo_extended_0.140.2_Windows-64bit.zip).
+
+![anh1](/images/anh1.png?width=90pc)
 
 ### Bước 3: Giải nén và di chuyển tệp
 - Giải nén tệp và di chuyển tệp thực thi (file `.exe`) đến thư mục bạn muốn (ví dụ: `C:\Hugo`).
@@ -29,11 +32,13 @@
 3. Nếu lệnh trả về phiên bản Hugo, bạn đã cài đặt thành công.
 
 
+
 ## Cách 2: Cài Đặt Hugo Bằng Package Manager (Chocolatey)
 
 ### Bước 1: Mở Windows PowerShell (Admin)
 - Nhấn **Windows + S**, tìm **Windows PowerShell**.
 - Nhấp chuột phải vào **Windows PowerShell** và chọn **Run as Administrator**.
+
 
 ### Bước 2: Cài Đặt Chocolatey
 1. Sao chép và dán lệnh sau vào PowerShell và nhấn **Enter**:
